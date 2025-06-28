@@ -1,7 +1,3 @@
-To create a good README.md for your Employee Management System (EMS-BN) built with React.js, here’s a template you can use. You can copy this and adjust any section as needed.
-
----
-
 # Employee Management System (EMS-BN)
 
 This is an Employee Management System built using React.js. The application is designed to help organizations manage employee information efficiently, including adding, updating, viewing, and deleting employee records.
